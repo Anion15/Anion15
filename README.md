@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
     Life starts with <code>'int main()'</code> and ends with <code>'return 0;'</code>
 </h1>
 
+<!-- 애니메이션 효과를 위한 CSS 코드 -->
 <style>
 @keyframes fade-in {
     0% { opacity: 0; }
@@ -31,4 +32,3 @@ You can click the Preview link to take a look at your changes.
     50% { transform: translateY(-10px); }
 }
 </style>
-
