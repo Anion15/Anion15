@@ -16,4 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Life starts with `int main()` and ends with `return 0;`
+<h1 style="font-family: 'Courier New', monospace; font-size: 36px; color: #1E90FF; text-shadow: 2px 2px 5px #000000;">
+    Life starts with <code>'int main()'</code> and ends with <code>'return 0;'</code>
+</h1>
