@@ -15,6 +15,19 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 style="font-family: 'Georgia', serif; font-size: 48px;">Life starts with 'int main()' and ends with 'return 0;'</h1>
+<h1 style="font-family: 'Courier New', monospace; font-size: 48px; color: #1E90FF; text-shadow: 2px 2px 5px #000000; animation: fade-in 3s ease-in-out, float 5s infinite;">
+    Life starts with <code>'int main()'</code> and ends with <code>'return 0;'</code>
+</h1>
 
+<style>
+@keyframes fade-in {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+</style>
 
