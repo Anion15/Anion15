@@ -1,77 +1,53 @@
-<h1 align="center">Hi there 👋, I'm Anion15</h1>
-<h3 align="center">Backend Developer | Security Learner | Real-time Web Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Anion15's%20Github&textBg=false&section=header&fontSize=50&fontAlign=50&fontAlignY=47"/>
+</div>
+
+<div style="text-align: left;">
+
+## About Me
+안녕하세요, Anion15입니다.  
+중학생 때 처음 개발을 접한 이후로 여러 분야를 공부하며 꾸준히 프로젝트를 만들어왔습니다.  
+지금까지 다양한 개인 프로젝트를 진행했고, 직접 외주를 맡아 개발해준 경험도 많습니다.  
+그 과정에서 웹, 서버, 보안, 인프라 등 여러 기술을 자연스럽게 익혔고  
+여러 프로그래밍 언어를 상황에 맞게 사용할 수 있는 능력을 갖추게 되었습니다.
+
+현재 운영 중인 개인 프로젝트 중에는  
+**월간 수만 명이 방문하는 서비스도 있을 만큼** 실제 환경에서 시스템을 운영해 본 경험이 있습니다.  
+새로운 기술을 빠르게 익히고 직접 적용하며,  
+성능·안정성·확장성을 중시하는 개발 방식을 가장 좋아합니다.  
+앞으로도 다양한 서비스를 만들고 운영하며 계속 성장해 나가고자 합니다.
+
+admin@commu.world
+juwony27@gmail.com
+
+instagram: yxbh.rh0
 
 ---
 
-## 💫 About Me
-
-- 🔭 I’m currently working on a **Chat Service Website**
-- 👯 I’m looking to collaborate on **Real-time Databases**
-- 🤝 I’m seeking guidance on **Web Security**
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about **Web Development and Backend Technologies**
-- ⚡ Fun fact: I was born in **2009**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://instagram.com/yxbh.rh0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/27878776" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+## Tech Stacks
+<div style="text-align: left;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
   <br/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-121013.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
   <br/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white">
+</div>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anion15&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Anion's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anion15&theme=dark&hide_border=false" alt="Anion's GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anion15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-## 💰 Support Me
-
-<a href="https://buymeacoffee.com/anion15" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anion15&icon=0&color=0" alt="Visitor Count"/>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
