@@ -28,7 +28,7 @@
 현재 서비스 중인 프로젝트입니다.
 
 1. **상정인사이드** - 자유로운 토론 커뮤니티  
-   [바로가기](https://commu.world)
+   [바로가기](https://commu.world) · [리포지토리 바로가기](https://github.com/anion15/Sangjeong-Inside)
 
 2. **인천상정고등학교 Apice 동아리**  
    [바로가기](https://www.apice.kr) · [리포지토리 바로가기](https://github.com/anion15/Apice.kr)
@@ -37,9 +37,6 @@
    [바로가기](https://www.rederx.com)
 
 ---
-
-현재 주요 프로젝트 중 하나인 **상정인사이드**의 소스 코드는  
-보안상의 이유로 비공개로 전환된 상태입니다.
 
 ## Contact
 
