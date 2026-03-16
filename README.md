@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Anion15's%20Github&textBg=false&section=header&fontSize=50&fontAlign=50&fontAlignY=47"/>
 </div>
 
-## About Me
+# About Me
 
-안녕하세요, **Anion15**입니다.  
+### 안녕하세요, **Anion15**입니다.  
 중학생 때 처음 개발을 접한 이후로 여러 분야를 공부하며 꾸준히 프로젝트를 만들어왔습니다.  
 지금까지 다양한 개인 프로젝트를 진행했고, 직접 외주를 맡아 개발한 경험도 있습니다.  
 
