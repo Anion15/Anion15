@@ -19,6 +19,7 @@
 성능 · 안정성 · 확장성을 중요하게 생각하는 개발 방식을 선호합니다.  
 앞으로도 다양한 서비스를 만들고 운영하며 계속 성장해 나가고자 합니다.
 
+#### [*포트폴리오 보러가기*](https://dev.rederx.com)
 
 [![wakatime](https://wakatime.com/badge/user/5baa0b00-98ce-492f-aa82-940e1a383f50.svg)](https://wakatime.com/@5baa0b00-98ce-492f-aa82-940e1a383f50)
 ---
