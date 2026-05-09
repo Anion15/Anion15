@@ -34,7 +34,10 @@
 2. **인천상정고등학교 Apice 동아리**  
    [바로가기](https://www.apice.kr) · [리포지토리 바로가기](https://github.com/anion15/Apice.kr)
 
-3. **Rederx.com**  
+3. **백은별 작가 소개 팬페이지**  
+   [바로가기](https://www.eunbyeol.kr) · [리포지토리 바로가기](https://github.com/anion15/Eunbyeol.kr)
+
+5. **Rederx.com**  
    [바로가기](https://www.rederx.com)
 
 ---
