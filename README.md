@@ -43,10 +43,10 @@
 ---
 
 ## Contact
-
-- admin@commu.world  
+ 
 - juwony27@gmail.com  
 - Instagram: `yxbh.rh0`
+- Discord: [coding_09](https://discord.com/users/1126799229709451264)
 
 ---
 
